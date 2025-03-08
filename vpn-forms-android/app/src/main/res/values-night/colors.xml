@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme Colors -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#FF4081</color>
+    
+    <!-- Text Colors -->
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#B3FFFFFF</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- VPN States -->
+    <color name="vpn_active">#66BB6A</color>
+    <color name="vpn_inactive">#EF5350</color>
+    
+    <!-- Warning Colors -->
+    <color name="warning_background">#3E2723</color>
+    <color name="warning_text">#FFB74D</color>
+
+    <!-- Common Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="light_gray">#424242</color>
+    <color name="divider">#1F1F1F</color>
+    <color name="transparent">#00000000</color>
+</resources>
