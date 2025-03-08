@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VPN Forms</string>
+    
+    <!-- VPN Service -->
+    <string name="notification_title">VPN Forms Active</string>
+    <string name="notification_text">Protecting your forms access</string>
+    <string name="notification_channel_name">VPN Forms Service</string>
+    <string name="notification_channel_description">Shows VPN connection status</string>
+    
+    <!-- VPN Control -->
+    <string name="start_vpn">Start VPN</string>
+    <string name="stop_vpn">Stop VPN</string>
+    <string name="no_vpn_message">Please enable VPN to access forms securely</string>
+    
+    <!-- VPN Errors -->
+    <string name="vpn_error_message">Failed to start VPN service. Please try again.</string>
+    <string name="vpn_stop_error">Failed to stop VPN service. Please try again.</string>
+    <string name="vpn_permission_denied">VPN permission denied. VPN is required to use this app.</string>
+    <string name="vpn_error_retry">Try Again</string>
+    <string name="vpn_error_exit">Exit</string>
+
+    <!-- Forms -->
+    <string name="loading_forms">Loading forms…</string>
+    <string name="error_loading_forms">Failed to load forms. Please check your connection.</string>
+    <string name="no_forms_available">No forms available</string>
+
+    <!-- WebView -->
+    <string name="google_form">Google Form</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading_form">Error loading form</string>
+    <string name="try_again">Try Again</string>
+    <string name="close">Close</string>
+
+    <!-- VPN Setup -->
+    <string name="vpn_setup_title">VPN Configuration Required</string>
+    <string name="vpn_setup_message">This app requires a VPN connection to ensure secure access to Google Forms. The VPN will only allow traffic to Google Forms and related services.</string>
+    <string name="vpn_setup_continue">Configure VPN</string>
+    <string name="vpn_setup_cancel">Exit</string>
+
+    <!-- VPN Configuration -->
+    <string name="vpn_config_title">VPN Permission</string>
+    <string name="vpn_config_message">Please allow VPN configuration when prompted by Android. This is required for the app to work.</string>
+    <string name="vpn_config_ok">Continue</string>
+    <string name="vpn_config_cancel">Cancel</string>
+
+    <!-- VPN Error -->
+    <string name="vpn_error_title">VPN Error</string>
+</resources>
